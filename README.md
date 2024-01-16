@@ -1,0 +1,1 @@
+Este projeto é uma suite de automação de testes baseada no site DemoQA, uma plataforma rica em funcionalidades e elementos que oferecem um ambiente propício para a prática de testes automatizados. Utilizando ferramentas como Selenium WebDriver, JUnit e Java, este projeto visa garantir a qualidade e confiabilidade das aplicações desenvolvidas.
